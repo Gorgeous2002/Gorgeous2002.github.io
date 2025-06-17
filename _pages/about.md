@@ -27,7 +27,7 @@ My research interest lies on Human-centric Intelligence, including Generative AI
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/newpipe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/qin.jpg' alt="TeleOpBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](https://gorgeous2002.github.io/TeleOpBench/)
@@ -37,8 +37,12 @@ My research interest lies on Human-centric Intelligence, including Generative AI
 
 <sup>\*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**[Project website]**](https://gorgeous2002.github.io/TeleOpBench/) 
+[**[Paper]**](https://arxiv.org/pdf/2505.12748)
+[**[Code]**](https://github.com/cyjdlhy/TeleOpBench)
+
+We introduce TeleOpBench, the first standardized benchmark for evaluating dual-arm dexterous teleoperation systems. This work addresses a critical gap in robotics research by providing a fair, reproducible platform for comparing different teleoperation approaches. Our benchmark features 30 high-fidelity manipulation tasks ranging from simple pick-and-place to complex bimanual coordination, and implements four representative control modalities including motion capture, VR controllers, exoskeletons, and vision-based tracking. Through extensive validation on both simulated and real robot platforms, we demonstrate strong correlation between virtual and physical performance, establishing TeleOpBench as a valuable tool for advancing dexterous manipulation research.
+
 </div>
 </div>
 
