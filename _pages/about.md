@@ -41,7 +41,7 @@ My research interest lies on Human-centric Intelligence, including Generative AI
 [**[Paper]**](https://arxiv.org/pdf/2505.12748)
 [**[Code]**](https://github.com/cyjdlhy/TeleOpBench)
 
-We introduce TeleOpBench, the first standardized benchmark for evaluating dual-arm dexterous teleoperation systems. This work addresses a critical gap in robotics research by providing a fair, reproducible platform for comparing different teleoperation approaches. Our benchmark features 30 high-fidelity manipulation tasks ranging from simple pick-and-place to complex bimanual coordination, and implements four representative control modalities including motion capture, VR controllers, exoskeletons, and vision-based tracking. Through extensive validation on both simulated and real robot platforms, we demonstrate strong correlation between virtual and physical performance, establishing TeleOpBench as a valuable tool for advancing dexterous manipulation research.
+We present TeleOpBench, the first standardized benchmark for dual-arm dexterous teleoperation. Our framework enables fair comparison of different control modalities (motion capture, VR, exoskeletons, vision-based) across 30 manipulation tasks. Strong sim-to-real correlation validates the benchmark's effectiveness for advancing robotic manipulation research.
 
 </div>
 </div>
