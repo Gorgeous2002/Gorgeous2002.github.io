@@ -42,8 +42,6 @@ My research interest lies on Human-centric Intelligence, including Generative AI
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduate
 - *2024.10* University Scholarship
