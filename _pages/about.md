@@ -48,13 +48,13 @@ We present TeleOpBench, the first standardized benchmark for dual-arm dexterous 
 
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduate
-- *2024.10, 2023.10, 2022.10* University Scholarship
+- *2024.10, 2023.10, 2022.10* Second Class University Scholarship
 - *2024.10, 2023.10* Outstanding Student Leader
 - *2023.10* Enterprise Scholarship
 - *2022.10* Outstanding Student
 
 # 📖 Educations
-- *2025.09 - 2030.06(expected)*, Zhejiang University, Ph.D in Computer Science
+- *2025.09 - 2030.06(expected)*, Zhejiang University, Ph.D candidate in Computer Science
 - *2021.09 - 2025.06*, Xi'an Jiaotong University, Bachelor of Automation
 
 
