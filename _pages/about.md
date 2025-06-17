@@ -27,7 +27,7 @@ My research interest lies on Human-centric Intelligence, including Generative AI
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/qin.jpg' alt="TeleOpBench" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/newpipe.jpg' alt="TeleOpBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](https://gorgeous2002.github.io/TeleOpBench/)
