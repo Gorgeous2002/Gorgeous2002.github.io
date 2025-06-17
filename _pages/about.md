@@ -48,11 +48,9 @@ We present TeleOpBench, the first standardized benchmark for dual-arm dexterous 
 
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduate
-- *2024.10* University Scholarship
-- *2024.10* Outstanding Student Leader
+- *2024.10, 2023.10, 2022.10* University Scholarship
+- *2024.10, 2023.10* Outstanding Student Leader
 - *2023.10* Enterprise Scholarship
-- *2023.10* Outstanding Student Leader
-- *2022.10* University Scholarship
 - *2022.10* Outstanding Student
 
 # 📖 Educations
