@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Qin Zhao, senior undergraduate student from School of Automation, Xi'an Jiaotong University. I will pursue my Ph.D degree in Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). And now i'm working closing with [Dr. Junting Dong](https://jtdong.com/) in Shanghai Artificial Intelligence Laboratory.
+Hi, I'm Qin Zhao, a first-year Ph.D. student at the School of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). I am also closely collaborating with [Dr. Junting Dong](https://jtdong.com/) at the Shanghai Artificial Intelligence Laboratory.
 
-My research interest lies on Human-centric Intelligence, including Generative AI and Embodied AI. 
+My research interests lie in Human-centric Intelligence, with a focus on Generative AI and Embodied AI.
+
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I will start my Ph.D journey in Zhejiang University
-- *2025.05*: &nbsp;🎉🎉 Our paper "TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation" has released on [arXiv](https://arxiv.org/abs/2505.12748). 
+- *2025.06*: &nbsp;🎉🎉 Two papers: [GAS](https://humansensinglab.github.io/GAS/) and [SIGMAN](https://yyvhang.github.io/SIGMAN_3D/) get accepted to ICCV2025.
+- *2025.05*: &nbsp;🎉🎉 Our paper: "TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation" has released on [arXiv](https://arxiv.org/abs/2505.12748). 
 
 # 📝 Publications 
 
@@ -54,7 +55,7 @@ We present TeleOpBench, the first standardized benchmark for dual-arm dexterous 
 - *2022.10* Outstanding Student
 
 # 📖 Educations
-- *2025.09 - 2030.06(expected)*, Zhejiang University, Ph.D candidate in Computer Science
+- *2025.09 - present, Zhejiang University, Ph.D candidate in Computer Science
 - *2021.09 - 2025.06*, Xi'an Jiaotong University, Bachelor of Automation
 
 
