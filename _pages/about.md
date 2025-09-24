@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Qin Zhao, senior undergraduate student from School of Automation, Xi'an Jiaotong University. I will pursue my Ph.D degree in Zhejiang University, , co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). And now i'm working closing with [Dr. Junting Dong](https://jtdong.com/) in Shanghai Artificial Intelligence Laboratory.
+Hi, I'm Qin Zhao, senior undergraduate student from School of Automation, Xi'an Jiaotong University. I will pursue my Ph.D degree in Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). And now i'm working closing with [Dr. Junting Dong](https://jtdong.com/) in Shanghai Artificial Intelligence Laboratory.
 
 My research interest lies on Human-centric Intelligence, including Generative AI and Embodied AI. 
 
