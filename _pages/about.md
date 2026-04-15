@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Qin Zhao, a first-year Ph.D. student at the School of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). I am also closely collaborating with [Dr. Junting Dong](https://jtdong.com/) at the Shanghai Artificial Intelligence Laboratory.
+Hi, I'm Qin Zhao, a first-year Ph.D. student at the School of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). 
+<!-- I am also closely collaborating with [Dr. Junting Dong](https://jtdong.com/) at the Shanghai Artificial Intelligence Laboratory. -->
 
-My research interests lie in Human-centric Intelligence, with a focus on Generative AI and Embodied AI.
+My long-term research goal is to develop general-purpose intelligence. Currently, I focus on World Models, which lie at the intersection of Generative AI and Embodied AI.
 
 
 # 🔥 News
@@ -127,4 +128,4 @@ Yuhang Yang <sup>\*</sup>, Fengqi Liu <sup>\*</sup>, Yixing Lu, **Qin Zhao**, Pi
 - *2025*, Reviewer for [CoRL 2025](https://www.corl.org/)
 
 # 💻 Internships
-- *2024.08 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
+- *2024.08 - 2026.03*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
