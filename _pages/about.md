@@ -47,7 +47,7 @@ My long-term research goal is to develop general-purpose intelligence. Currently
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><video src='videos/SynthVerse.mp4' alt="SynthVerse" width="100%" autoplay loop muted playsinline></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><video src='videos/SynthVerse.mp4' alt="SynthVerse" width="100%" autoplay loop muted playsinline></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SynthVerse: A Large-Scale Diverse Synthetic Dataset for Point Tracking](https://arxiv.org/abs/2602.04441)
