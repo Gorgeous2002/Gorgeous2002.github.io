@@ -17,18 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Qin Zhao, a first-year Ph.D. student at the School of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en). 
-<!-- I am also closely collaborating with [Dr. Junting Dong](https://jtdong.com/) at the Shanghai Artificial Intelligence Laboratory. -->
+Hi, I'm Qin Zhao, a first-year Ph.D. student at the School of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=en) and [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en).
+<!-- I also collaborate closely with [Dr. Junting Dong](https://jtdong.com/) at the Shanghai Artificial Intelligence Laboratory. -->
 
 My long-term research goal is to develop general-purpose intelligence. Currently, I focus on World Models, which lie at the intersection of Generative AI and Embodied AI.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Two papers: [GAS](https://humansensinglab.github.io/GAS/) and [SIGMAN](https://yyvhang.github.io/SIGMAN_3D/) get accepted to ICCV2025.
-- *2025.05*: &nbsp;🎉🎉 Our paper: "TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation" has released on [arXiv](https://arxiv.org/abs/2505.12748). 
+- *2026.07*: &nbsp;🎉🎉 We released [LingBot-Video](https://technology.robbyant.com/lingbot-video), a large-scale open-source Mixture-of-Experts (MoE) video foundation model designed for embodied intelligence.
+- *2025.06*: &nbsp;🎉🎉 Our papers [GAS](https://humansensinglab.github.io/GAS/) and [SIGMAN](https://yyvhang.github.io/SIGMAN_3D/) were accepted to ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 Our paper, [TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](https://arxiv.org/abs/2505.12748), was released on arXiv.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><video src='videos/TeleOpbench.mp4' alt="TeleOpBench" style="max-width: 360px;" autoplay loop muted playsinline></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><video src='videos/LingBot-Video.mp4' alt="LingBot-Video" width="100%" autoplay loop muted playsinline></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LingBot-Video: Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://technology.robbyant.com/lingbot-video)
+
+
+Contributed to **Action-to-Video Post-Training**
+
+[**[Project Page]**](https://technology.robbyant.com/lingbot-video)
+[**[Paper]**](https://arxiv.org/pdf/2607.07675)
+[**[Code]**](https://github.com/Robbyant/lingbot-video)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video src='videos/TeleOpbench.mp4' alt="TeleOpBench" style="max-width: 360px;" autoplay loop muted playsinline></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](https://gorgeous2002.github.io/TeleOpBench/)
@@ -38,7 +54,7 @@ My long-term research goal is to develop general-purpose intelligence. Currently
 
 <sup>\*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
-[**[Project website]**](https://gorgeous2002.github.io/TeleOpBench/) 
+[**[Project Page]**](https://gorgeous2002.github.io/TeleOpBench/)
 [**[Paper]**](https://arxiv.org/pdf/2505.12748)
 [**[Code]**](https://github.com/cyjdlhy/TeleOpBench)
 
@@ -55,15 +71,15 @@ My long-term research goal is to develop general-purpose intelligence. Currently
 
 Weiguang Zhao <sup>\*</sup>, Haoran Xu <sup>\*</sup>, Xingyu Miao, **Qin Zhao**, Rui Zhang<sup>†</sup>, Kaizhu Huang<sup>†</sup>, Ning Gao, Peizhou Cao, Mingze Sun, Mulin Yu, Tao Lu, Linning Xu, Junting Dong<sup>†</sup><sup>‡</sup>, Jiangmiao Pang
 
-<sup>\*</sup> Equal contribution. <sup>†</sup><sup>‡</sup> Corresponding author.
+<sup>\*</sup> Equal contribution. <sup>†</sup> Corresponding author. <sup>‡</sup> Project lead.
 
-[**[Project page]**](https://weiguangzhao.github.io/SynthVerse/)
+[**[Project Page]**](https://weiguangzhao.github.io/SynthVerse/)
 [**[Dataset]**](https://huggingface.co/datasets/InternRobotics/SynthVerse)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><video src='videos/Dense_prediction.mp4' alt="Dense Prediction" width="100%" autoplay loop muted playsinline></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video src='videos/Dense_prediction.mp4' alt="Dense Prediction" width="100%" autoplay loop muted playsinline></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Frames to Sequences: Temporally Consistent Human-Centric Dense Prediction](https://arxiv.org/abs/2602.01661)
@@ -73,7 +89,7 @@ Xingyu Miao, Junting Dong<sup>†</sup><sup>‡</sup>, **Qin Zhao**, Yuhang Yang
 
 <sup>†</sup> Corresponding authors. <sup>‡</sup> Project leader.
 
-[**[Project page]**](https://xingy038.github.io/F2S/)
+[**[Project Page]**](https://xingy038.github.io/F2S/)
 [**[Paper]**](https://arxiv.org/pdf/2602.01661)
 [**[Code]**](https://github.com/xingy038/F2S)
 
@@ -90,7 +106,7 @@ Yixing Lu, Junting Dong<sup>†</sup>, Youngjoong Kwon, **Qin Zhao**, Bo Dai, Fe
 
 <sup>†</sup> Corresponding author.
 
-[**[Project page]**](https://humansensinglab.github.io/GAS/)
+[**[Project Page]**](https://humansensinglab.github.io/GAS/)
 [**[Code]**](https://github.com/humansensinglab/gas)
 
 </div>
@@ -106,7 +122,7 @@ Yuhang Yang <sup>\*</sup>, Fengqi Liu <sup>\*</sup>, Yixing Lu, **Qin Zhao**, Pi
 
 <sup>\*</sup> Equal contribution. <sup>†</sup> Corresponding authors.
 
-[**[Project page]**](https://yyvhang.github.io/SIGMAN_3D/)
+[**[Project Page]**](https://yyvhang.github.io/SIGMAN_3D/)
 [**[Code]**](https://github.com/yyvhang/SIGMAN_release)
 
 </div>
@@ -114,18 +130,18 @@ Yuhang Yang <sup>\*</sup>, Fengqi Liu <sup>\*</sup>, Yixing Lu, **Qin Zhao**, Pi
 
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduate
-- *2024.10, 2023.10, 2022.10* Second Class University Scholarship
+- *2024.10, 2023.10, 2022.10* Second-Class University Scholarship
 - *2024.10, 2023.10* Outstanding Student Leader
 - *2023.10* Enterprise Scholarship
 - *2022.10* Outstanding Student
 
-# 📖 Educations
-- *2025.09 - present*, Zhejiang University, Ph.D candidate in Computer Science
-- *2021.09 - 2025.06*, Xi'an Jiaotong University, Bachelor of Automation
+# 📖 Education
+- *2025.09–Present*, Zhejiang University, Ph.D. candidate in Computer Science
+- *2021.09–2025.06*, Xi'an Jiaotong University, Bachelor's degree in Automation
 
 
-# 💬 Academic Services
+# 💬 Academic Service
 - *2025*, Reviewer for [CoRL 2025](https://www.corl.org/)
 
 # 💻 Internships
-- *2024.08 - 2026.03*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
+- *2024.08–2026.03*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China
